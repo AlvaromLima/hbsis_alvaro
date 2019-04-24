@@ -1,0 +1,8 @@
+cobol nome.COB
+cobol nome1.COB
+
+cbllink nome.obj nome1.obj
+
+cbllink menu.obj cadcli.obj cadven.obj caddigit.obj relcli.obj relven.obj distven.obj
+
+
